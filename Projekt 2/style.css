@@ -1,0 +1,23 @@
+body {
+    background: #141414;
+    color: #ffffff;
+}
+
+canvas {
+    background: #202020;
+    padding: 0;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.alignleft {
+	float: left;
+    position: relative;
+    left: 25%;
+}   
+.alignright {
+	float: right;
+    position: relative;
+    right: 25%;
+}
